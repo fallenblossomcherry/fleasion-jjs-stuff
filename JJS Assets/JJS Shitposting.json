@@ -1,0 +1,387 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Hakari Jackpot Theme",
+      "replace_ids": [
+        1841443579
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Audio/It's%20Going%20Down%20Now.mp3?raw=true"
+    },
+    {
+      "name": "Yuta Domain Music",
+      "replace_ids": [
+        139647861430129
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Audio/Raise%20Up%20Your%20Bat%20-%20Instrumental%20Version%20-%20RichaadEB.mp3?raw=true"
+    },
+    {
+      "name": "Sukuna Domain Music",
+      "replace_ids": [
+        15583493700,
+        83360856832970
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Audio/BLACK%20KNIFE%20-%20RichaadEB.mp3?raw=true"
+    },
+    {
+      "name": "Higuruma Stare",
+      "replace_ids": [
+        16726446989
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/estrogen.jpg?raw=true"
+    },
+    {
+      "name": "Sukuna Shrine Teef",
+      "replace_ids": [
+        12675596563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/sukuna%20says%20suffer.jpg?raw=true"
+    },
+    {
+      "name": "TNT",
+      "replace_ids": [
+        127210649211138,
+        94866794944273,
+        129003031066158
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/Kirara%20Stare.jpg?raw=true"
+    },
+    {
+      "name": "JJS Background Image",
+      "replace_ids": [
+        15874942242
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/sukuna%20aura.jpg?raw=true"
+    },
+    {
+      "name": "Nep",
+      "replace_ids": [
+        71919514219060,
+        85751270523018,
+        114710218306848,
+        132596465192566,
+        73881504455668,
+        106720530155041,
+        130699926747747,
+        106453400326029
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/gas%20leak.jpg?raw=true"
+    },
+    {
+      "name": "Hakari Domain Image",
+      "replace_ids": [
+        16069822951
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/who%20voted%20for%20hakari.jpg?raw=true"
+    },
+    {
+      "name": "Texture Remove",
+      "replace_ids": [
+        "TexturePack"
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Gojo Domain Image",
+      "replace_ids": [
+        14591918380
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/Gojo%20Ugly.jpg?raw=true"
+    },
+    {
+      "name": "Sukuna Domain Image",
+      "replace_ids": [
+        14812133399
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/sukuna%20domain.jpg?raw=true"
+    },
+    {
+      "name": "Hakari Music Note",
+      "replace_ids": [
+        627584285
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/Kirara%20Stare.jpg?raw=true"
+    },
+    {
+      "name": "Todo Slam Image",
+      "replace_ids": [
+        73458769859093
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/we%20aint%20gonna%20jump%20you.jpg?raw=true"
+    },
+    {
+      "name": "Gojo Domain",
+      "replace_ids": [
+        14591918380
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/sukuna%20gojo%20fade.jpg?raw=true"
+    },
+    {
+      "name": "Yuta domain image",
+      "replace_ids": [
+        80698598530653
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/they%20are%20iron.jpg?raw=true"
+    },
+    {
+      "name": "TZE Mahoraga Buildboard",
+      "replace_ids": [
+        71844301486502
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/megumi%20jump.jpg?raw=true"
+    },
+    {
+      "name": "gojo half",
+      "replace_ids": [
+        15953247364
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/jo.jpg?raw=true"
+    },
+    {
+      "name": "Spawn Point",
+      "replace_ids": [
+        9562514785
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/Kirara%20Stare.jpg?raw=true"
+    },
+    {
+      "name": "Maho Face",
+      "replace_ids": [
+        299971458
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/Kirara%20Stare.jpg?raw=true"
+    },
+    {
+      "name": "Character Icon",
+      "replace_ids": [
+        7992557358
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/cute%20thunkuna.png?raw=true"
+    },
+    {
+      "name": "Default Bilboard image",
+      "replace_ids": [
+        11176073563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/estrogen.jpg?raw=true"
+    },
+    {
+      "name": "Ryu Lets go all out",
+      "replace_ids": [
+        131698399665351
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/ryu%20death.jpg?raw=true"
+    },
+    {
+      "name": "Ace Atterny Floor",
+      "replace_ids": [
+        7621663239
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/they%20are%20iron.jpg?raw=true"
+    },
+    {
+      "name": "Gojo Domain Music",
+      "replace_ids": [
+        16071901783
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Audio/I'll%20Face%20Myself(-Battle-)%20-%20ATLUS%20Sound%20Team.mp3?raw=true"
+    },
+    {
+      "name": "Hakari Roll 1",
+      "replace_ids": [
+        17207807777
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/gojo%20wheelchair.jpg?raw=true"
+    },
+    {
+      "name": "Hakari Roll 2",
+      "replace_ids": [
+        17207806991
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/tweaking%20gojo.jpg?raw=true"
+    },
+    {
+      "name": "Hakari Roll 3",
+      "replace_ids": [
+        17207806413
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/jo.jpg?raw=true"
+    },
+    {
+      "name": "Hakari Roll 4",
+      "replace_ids": [
+        17207805758
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/sukuna%20gojo%20fade.jpg?raw=true"
+    },
+    {
+      "name": "Hakari Roll 5",
+      "replace_ids": [
+        17207805299
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/gojo%20gone.jpg?raw=true"
+    },
+    {
+      "name": "Hakari Roll 6",
+      "replace_ids": [
+        17207804676
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/Gojo%20Ugly.jpg?raw=true"
+    },
+    {
+      "name": "Hakari Roll 7",
+      "replace_ids": [
+        17207804009
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/cute%20thunkuna.png?raw=true"
+    },
+    {
+      "name": "No Update Buillboard",
+      "replace_ids": [
+        74649023596552
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/no%20bless.jpg?raw=true"
+    },
+    {
+      "name": "Nah Id Win Billboard",
+      "replace_ids": [
+        16926242767
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/nah%20i%20win.png?raw=true"
+    },
+    {
+      "name": "Nobara Watermelon",
+      "replace_ids": [
+        16694272490
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/nobara%20hammer.jpg?raw=true"
+    },
+    {
+      "name": "Nah I'd Win Rabbit",
+      "replace_ids": [
+        15766885383
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/gojo%20gone.png?raw=true"
+    },
+    {
+      "name": "Birdbrain",
+      "replace_ids": [
+        78584601751734
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Audio/BIRDBRAIN.mp3?raw=true"
+    },
+    {
+      "name": "Maho Summon",
+      "replace_ids": [
+        17607886466
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Audio/Big%20Raga.mp3?raw=true"
+    },
+    {
+      "name": "Random Naoya Hit",
+      "replace_ids": [
+        70397374333185
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Audio/boowomp.ogg?raw=true"
+    },
+    {
+      "name": "Aizo (Ryu AWK music)",
+      "replace_ids": [
+        92475178445200,
+        137364280179144,
+        84273721228058
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Images/AIZO%20-%20King%20Gnu.mp3?raw=true"
+    },
+    {
+      "name": "Cat Aud Replace",
+      "replace_ids": [
+        1841425177,
+        132472285449398,
+        117663808507739,
+        118689694101518
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/fallenblossomcherry/fleasion-jjs-stuff/blob/main/Replacements/Audio/meow.ogg?raw=true"
+    }
+  ]
+}
